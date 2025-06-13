@@ -1,7 +1,7 @@
 # 📚 Bookstore Mobile App
-Christel Grace c. Apas 
-
-
+---
+Christel Grace C. Apas 
+---
 A cloud-connected mobile app built with **React Native + Expo** and a backend powered by **Node.js + Express** with a **MySQL database hosted on Railway**. This project is for my **Midterm, Pre-Final, and Final Exam** in Android Development.
 
 ---
