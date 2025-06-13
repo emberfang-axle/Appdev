@@ -49,5 +49,5 @@ A cloud-connected mobile app built with **React Native + Expo** and a backend po
 ### 1️⃣ Clone This Repo
 
 ```bash
-git clone https://github.com/your-username/bookstore-app.git
+git clone https://github.com/emberfang-axle/bookstore-app.git
 cd bookstore-app
